@@ -1,5 +1,5 @@
 ## Built for Neos
 
-[![forthebadge](https://github.com/CytraX-Team/NeosRepoBadges/blob/main/built-for-neos.svg)](https://forthebadge.com)
+[![Built for Neos](https://github.com/CytraX-Team/NeosRepoBadges/blob/main/built-for-neos.svg)](https://neos.com/)
 
-`[![forthebadge](https://github.com/CytraX-Team/NeosRepoBadges/blob/main/built-for-neos.svg)](https://forthebadge.com)`
+`[![Built for Neos](https://github.com/CytraX-Team/NeosRepoBadges/blob/main/built-for-neos.svg)](https://neos.com/)`
